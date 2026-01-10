@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/ vishruth-p-9b5018331" target="_blank">
+  <a href="https://www.linkedin.com/in/vishruth-p-9b5018331" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/918951434680" target="_blank">
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzas.maurodesouzas&left_color=darkturquoise&right_color=chocolate"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VISP06.VISP06&left_color=darkturquoise&right_color=chocolate" />
 </div>
 
 ###
@@ -59,7 +59,10 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VISP06&show_icons=true&theme=dracula&count_private=true" height="190" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=VISP06&theme=dark" height="190" alt="streak graph" />
+</div>
 ###
 
 <br clear="both">
