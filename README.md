@@ -53,10 +53,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥 My Stats:</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VISP06&show_icons=true&theme=dracula&count_private=true" height="190" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=VISP06&theme=dark" height="190" alt="streak graph" />
-</div>
