@@ -30,7 +30,7 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">I'm an Information Science & Engineering student from Bangalore (originally from Mangalore) currently studying at Acharya Institute of Technology.<br><br>- 🔭 I’m working on simple projects at the moment to build some basic foundations and learn the ropes<br>- 📚 I’m currently diving deep into Android Development with Kotlin and Jetpack Compose<br>- ⚡ In my free time, I enjoy reading sci-fi novels, going for a quick jog, gaming, swimming, or hitting the badminton court.</p>
+<p align="left">I'm an Information Science & Engineering student from Bangalore (originally from Mangalore) currently studying at Acharya Institute of Technology.<br><br>- 🔭 I’m working on simple projects at the moment to build some basic foundations and learn the ropes<br>- 📚 I’m currently diving deep into Android Development with Kotlin and Jetpack Compose<br>- ⚡ In my free time, I enjoy reading sci-fi novels, going for a quick jog, gaming, swimming, hitting the badminton court and more recently, I have started playing chess.</p>
 
 ###
 
