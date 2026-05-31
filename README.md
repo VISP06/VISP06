@@ -34,6 +34,10 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VISP06&theme=github_dark" alt="Profile Details" />
+</div>
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
