@@ -35,8 +35,14 @@
 ###
 
 
-## 🔥 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=VISP06&theme=tokyonight&hide_border=true)
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VISP06/VISP06/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=VISP06&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 <h3 align="left">🛠 Language and tools</h3>
 
