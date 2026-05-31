@@ -34,10 +34,8 @@
 
 ###
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VISP06&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=VISP06&theme=tokyonight&hide_border=true)
 
 <h3 align="left">🛠 Language and tools</h3>
