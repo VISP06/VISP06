@@ -48,7 +48,6 @@
   <br><br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=weeeol&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <br><br>
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 </div>
 <h3 align="left">🛠 Language and tools</h3>
 
