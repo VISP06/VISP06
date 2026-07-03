@@ -48,11 +48,6 @@
   <br><br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=weeeol&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <br><br>
-  <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/VISP06/VISP06/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/VISP06/VISP06/output/snake.svg" />
-</picture>
 </div>
 <h3 align="left">🛠 Language and tools</h3>
 
